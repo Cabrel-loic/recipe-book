@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=recipe_book
+POSTGRES_USER=debug
+POSTGRES_PASSWORD=debug

@@ -135,7 +135,7 @@ dev = [
     "django-coverage-plugin==3.2.2",
     "django-debug-toolbar==6.1.0",
     "django-extensions==4.1",
-    "django-stubs[compatible-mypy]==5.2.8",
+    "django-stubs[compatible-mypy]==6.0.7",
     "djangorestframework-stubs==3.16.7",
     "djlint==1.43.1",
     "factory-boy==3.3.3",

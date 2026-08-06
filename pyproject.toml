@@ -131,13 +131,13 @@ force-single-line = true
 
 [dependency-groups]
 dev = [
-    "coverage==7.15.2",
+    "coverage==7.15.3",
     "django-coverage-plugin==3.2.2",
     "django-debug-toolbar==6.1.0",
     "django-extensions==4.1",
     "django-stubs[compatible-mypy]==5.2.8",
     "djangorestframework-stubs==3.16.7",
-    "djlint==1.43.1",
+    "djlint==1.43.2",
     "factory-boy==3.3.3",
     "ipdb==0.13.13",
     "mypy==1.19.1",

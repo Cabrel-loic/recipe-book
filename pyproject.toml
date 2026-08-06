@@ -187,6 +187,6 @@ dependencies = [
     "psycopg[c]==3.3.2",
     "python-slugify==8.0.4",
     "rcssmin==1.2.2",
-    "redis==7.1.0",
+    "redis==8.1.0",
     "whitenoise==6.12.0",
 ]
